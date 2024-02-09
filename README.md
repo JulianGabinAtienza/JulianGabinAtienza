@@ -24,3 +24,5 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)]()
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)]()
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)]()
+
+![JulianGabinAtienza's Stats](https://github-readme-stats.vercel.app/api?username=JulianGabinAtienza&theme=dark&show_icons=true&hide_border=true&count_private=true) ![JulianGabinAtienza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianGabinAtienza&theme=dark&show_icons=true&hide_border=true&layout=compact)
