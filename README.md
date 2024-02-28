@@ -9,7 +9,7 @@
 ## Me retrouver
 
 [![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/JulianGabinAtienza)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](www.linkedin.com/in/julian-gabin-atienza/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/julian-atienza-389a9a2a0/)
 
 ## Languages et outils
 
